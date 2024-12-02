@@ -1,6 +1,6 @@
 Hi There 👋
 
-I am Akash Ghosh, a passionate and driven researcher currently working as a Postdoctoral Research Associate (PDRA) at the University of Manchester’s National Graphene Institute (NGI), UK and the Indian Institute of Technology (IIT) Kharagpur, India. My academic journey has been defined by a fascination with material science and innovation, spanning polymer chemistry, nanotechnology, and composite materials.
+I am Akash Ghosh, a passionate and driven researcher currently working as a Postgraduate Doctoral Research (PGDR) at the University of Manchester’s National Graphene Institute (NGI), UK and the Indian Institute of Technology (IIT) Kharagpur, India. My academic journey has been defined by a fascination with material science and innovation, spanning polymer chemistry, nanotechnology, and composite materials.
 
 With an MTech in Polymer and Rubber Technology and MSc & BSc degrees in Applied and Industrial Chemistry, I have cultivated a strong foundation in the chemistry and engineering of polymers. Over the past four and a half years, I have developed a series of groundbreaking polymer materials tailored for diverse applications, including electronics, mechanics, and filtration technologies.
 
