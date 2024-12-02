@@ -1,6 +1,6 @@
 Hi There 👋
 
-I am Akash Ghosh, a passionate and driven researcher currently working as a Postdoctoral Research Associate (PDRA) at the University of Manchester’s National Graphene Institute (NGI) and the Indian Institute of Technology (IIT) Kharagpur. My academic journey has been defined by a fascination with material science and innovation, spanning polymer chemistry, nanotechnology, and composite materials.
+I am Akash Ghosh, a passionate and driven researcher currently working as a Postdoctoral Research Associate (PDRA) at the University of Manchester’s National Graphene Institute (NGI), UK and the Indian Institute of Technology (IIT) Kharagpur, India. My academic journey has been defined by a fascination with material science and innovation, spanning polymer chemistry, nanotechnology, and composite materials.
 
 With an MTech in Polymer and Rubber Technology and MSc & BSc degrees in Applied and Industrial Chemistry, I have cultivated a strong foundation in the chemistry and engineering of polymers. Over the past four and a half years, I have developed a series of groundbreaking polymer materials tailored for diverse applications, including electronics, mechanics, and filtration technologies.
 
@@ -20,8 +20,8 @@ Hobbies & Personal Interests
 
 When I’m not immersed in the world of materials science, you’ll often find me pursuing my other passions:
 
-- Anime Fan: Die-hard fan of Japanese animation.
+- Anime Fan
+  
+- Sports Enthusiast
 
-- Sports Enthusiast: A devoted table tennis and volleyball player, I relish the physical and mental challenges of the game. Sports keep me balanced and energized for my work.
-
-- Digital Photography: Capturing moments and experimenting with light and composition is my creative outlet. Photography helps me view the world through a different lens, quite literally.
+- Digital Photography
